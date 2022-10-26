@@ -1,0 +1,1 @@
+This is the working repository for my technical guides compilation. This is intended to provide details and guidelines on Linux administration and security, and is rendered as a complete document here.
